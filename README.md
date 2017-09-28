@@ -1,7 +1,7 @@
 # Nectar
 Nectar is the token used in the Antz platform
 
-Nectar is based on the ERC20 token protocol, with the option to also send information between token holders
+Nectar is based on the Ethereum token protocol, with the option to also send information between token holders
 via the added methods transferData and transferDataFrom.
 
 ## Requirements
